@@ -12,3 +12,8 @@ C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\obj\Debug\net6.0\refi
 C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\LENOVO\Desktop\Praktikant\CourseWebApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete

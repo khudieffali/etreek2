@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TyD07OEJVb4vwf+ya7arwfwSwzDQyEPxCf3AkX6Z0GnGGOIEehqtKTQEkFvcpS7/myZMdIykCRN78lavel2lrw==",
+  "dgSpecHash": "uKKl8i+cY90nlhAPxJ7txjw991zwDLE4PbLl9qv559t9rXuilCiUhfI+xTybGFUCSFt3ZiUC47MPI2vUFCop1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Praktikant\\CourseWebApi\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

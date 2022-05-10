@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yilEJvJ9Kbq4D/E6YL7Qbk8fJNjavxxx0Q8FKF0lDK6KyUhqgEXJslh35Nr8iMd2yy5NYrPGXCJXKkqfg7pqAA==",
+  "dgSpecHash": "GnvHoCMSRgfPdkx1x7oUNYLkUgV86ZjMpXwBIJT9ZfDndA6fOrJY+98DjDeVbqo3y56m83c56qxvsHHaTk+1bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Praktikant\\CourseWebApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.4\\microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
